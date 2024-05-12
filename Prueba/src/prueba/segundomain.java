@@ -6,6 +6,7 @@ public class segundomain {
 		// TODO Auto-generated method stub
 		System.out.println("nueva clase para probar");
 		System.out.println("Mensje para segundo main");
+		System.out.println("Nueva mensaje")
 	}
 
 }
